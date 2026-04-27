@@ -1,10 +1,7 @@
-# Pacman-ZFS-Hook
-Pacman ZFS Hook to create ZFS Snapshots on Pacman transactions.
 
-## Installing
+# Goodbye
 
-Install it from the [Arch User Repository](https://aur.archlinux.org/packages/pacman-zfs-hook)
+Repo no longer maintained. You can thank Pirkka Tapio Frosti, Sonja Frosti, and Jouni Korhonen for this. Read more at [https://lietu.net/](https://lietu.net/).
 
-## Usage
+See original README in the original-main branch.
 
-Every time you install, update or remove a package `pacman-zfs-hook` will look for your ZFS BOOTFS and create a snapshot with the current timestamp.
